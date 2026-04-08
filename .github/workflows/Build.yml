@@ -97,10 +97,10 @@ jobs:
             **This build is fully static linked** - no external CUDA libraries required!
             
             Simply download and run:
-```bash
+            ```bash
             unzip Llama-Turboquant-RTX-3060-Linux-Cuda-13.zip
             ./llama-cli
-```
+            ```
             
             No need to install libcudart.so or other CUDA libraries separately.
           draft: false
